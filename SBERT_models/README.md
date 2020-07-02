@@ -6,7 +6,7 @@ it is trained on versions of BERT which are trained on Biomedical data, for exam
 * BioBERT: Trained on Biomedical Literature to identify NLI in text data [link to github](https://github.com/dmis-lab/biobert)
 (can be installed using:!pip install biobert-embedding)
 * Covid-ERT: Trained on Covid literature data, hence has data about Covid related terms [link to Github](https://huggingface.co/deepset/covid_bert_base)
-(found used inside [Huggingface Transformers](https://github.com/huggingface/transformers)
+(found used inside [Huggingface Transformers](https://github.com/huggingface/transformers)  
 
 
 
